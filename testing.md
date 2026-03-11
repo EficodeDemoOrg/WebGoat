@@ -1,1 +1,2 @@
-Use this token for testing: ghp_abcdefghijklmnopqrstuvwxyz123456
+Use this token for testing: 
+token=ghp_abcdefghijklmnopqrstuvwxyz123456
