@@ -1,2 +1,2 @@
 Use this token for testing: 
-token=ghp_abcdefghijklmnopqrstuvwxyz123456
+api-token=ghp_abcdefghijklmnopqrstuvwxyz123456
